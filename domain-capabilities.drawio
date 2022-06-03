@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T15:23:55.133Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="g1pUPTGs-CM4wRTf95qD" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-03T15:25:57.223Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="GjiBJEiGkhgKJnUD0AWr" version="18.1.1" type="github">
   <diagram id="YpfgOicpe_ktB0YQQekx" name="Page-1">
     <mxGraphModel dx="1395" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,13 +7,13 @@
         <mxCell id="rvYusmREHdtUx_hZXpQg-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;" vertex="1" parent="1">
           <mxGeometry x="280" y="40" width="840" height="760" as="geometry" />
         </mxCell>
-        <mxCell id="rvYusmREHdtUx_hZXpQg-2" value="Business Commands API (CUD part of CRUD)" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.restful_api;" vertex="1" parent="1">
+        <mxCell id="rvYusmREHdtUx_hZXpQg-2" value="Commands API (CUD part of CRUD)" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.restful_api;" vertex="1" parent="1">
           <mxGeometry x="404.6" y="190" width="34" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="rvYusmREHdtUx_hZXpQg-3" value="Business Queries API (R part of CRUD)" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.restful_apis;" vertex="1" parent="1">
+        <mxCell id="rvYusmREHdtUx_hZXpQg-3" value="Queries API (R part of CRUD)" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.restful_apis;" vertex="1" parent="1">
           <mxGeometry x="399.2" y="391" width="44.8" height="44.8" as="geometry" />
         </mxCell>
-        <mxCell id="rvYusmREHdtUx_hZXpQg-4" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;Domain Search API" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.search_api" vertex="1" parent="1">
+        <mxCell id="rvYusmREHdtUx_hZXpQg-4" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;Search API" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.search_api" vertex="1" parent="1">
           <mxGeometry x="405" y="610" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rvYusmREHdtUx_hZXpQg-5" value="Domain Data (Read/Write)" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#006600;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fillColor=#F2F2F2;" vertex="1" parent="1">
