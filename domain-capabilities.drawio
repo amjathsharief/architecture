@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T16:49:14.518Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="sWdJHQpod6UnCEeZt5fT" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-03T16:52:17.202Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="KyPuaFmU_OFCYS-GIngJ" version="18.1.1" type="github">
   <diagram id="YpfgOicpe_ktB0YQQekx" name="Big picture view">
     <mxGraphModel dx="1395" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -71,7 +71,10 @@
           <mxGeometry x="855.6700000000001" y="206.45" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rvYusmREHdtUx_hZXpQg-35" value="Secrets/Certificates Vault" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.certificate_manager;fillColor=#759C3E;gradientColor=none;fontColor=#000000;strokeColor=#006600;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="500" y="331.2" width="53" height="34" as="geometry" />
+          <mxGeometry x="494.25" y="333.8" width="41.5" height="28.8" as="geometry" />
+        </mxCell>
+        <mxCell id="rvYusmREHdtUx_hZXpQg-36" value="Business Rules" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.config_rule;fillColor=#759C3E;gradientColor=none;fontColor=#000000;strokeColor=#006600;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="502.5" y="206.45" width="25" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
