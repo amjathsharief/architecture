@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T15:45:12.687Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="Qi8aA_CXAJ085tZGj_Fg" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-03T15:46:36.457Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="eOe2ExGkxOo2-orJ7Fa5" version="18.1.1" type="github">
   <diagram id="YpfgOicpe_ktB0YQQekx" name="Page-1">
     <mxGraphModel dx="1186" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -46,8 +46,8 @@
         <mxCell id="rvYusmREHdtUx_hZXpQg-16" value="Monitoring Dashboard" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/business-and-finance-20/200/vector_65_11-128.png;strokeColor=#006600;fillColor=#B0084D;gradientColor=#FF0C70;" vertex="1" parent="1">
           <mxGeometry x="381.6" y="560" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rvYusmREHdtUx_hZXpQg-17" value="Business Metrics" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Metrics.svg;strokeColor=#006600;fillColor=#B0084D;gradientColor=#FF0C70;" vertex="1" parent="1">
-          <mxGeometry x="807.23" y="560" width="41.54" height="45" as="geometry" />
+        <mxCell id="rvYusmREHdtUx_hZXpQg-17" value="Business/Technical Metrics" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Metrics.svg;strokeColor=#006600;fillColor=#B0084D;gradientColor=#FF0C70;" vertex="1" parent="1">
+          <mxGeometry x="807.23" y="567.5" width="41.54" height="45" as="geometry" />
         </mxCell>
         <mxCell id="rvYusmREHdtUx_hZXpQg-20" value="&lt;font color=&quot;#000000&quot;&gt;Admin API&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/security/api_security.svg;strokeColor=#006600;fillColor=#B0084D;gradientColor=#FF0C70;" vertex="1" parent="1">
           <mxGeometry x="390" y="450" width="41.6" height="41.6" as="geometry" />
