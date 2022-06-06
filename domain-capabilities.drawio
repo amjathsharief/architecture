@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T16:09:37.674Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="s8loGYX6zEUUJDW288A3" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-06T16:10:05.932Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="JLhCp5mSE81vGrID4kcE" version="18.1.1" type="github">
   <diagram id="YpfgOicpe_ktB0YQQekx" name="Big picture view">
     <mxGraphModel dx="1248" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry x="687" y="48.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rvYusmREHdtUx_hZXpQg-16" value="Monitoring Dashboard" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/business-and-finance-20/200/vector_65_11-128.png;strokeColor=#006600;fillColor=#B0084D;gradientColor=#FF0C70;" parent="1" vertex="1">
-          <mxGeometry x="106.80000000000001" y="675" width="60" height="60" as="geometry" />
+          <mxGeometry x="106.80000000000001" y="673" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rvYusmREHdtUx_hZXpQg-17" value="Domain Metrics" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Metrics.svg;strokeColor=#006600;fillColor=#B0084D;gradientColor=#FF0C70;" parent="1" vertex="1">
           <mxGeometry x="681.23" y="642" width="41.54" height="45" as="geometry" />
