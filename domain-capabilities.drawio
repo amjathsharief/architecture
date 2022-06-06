@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T16:27:12.730Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="9eYJrVvgGoe-D0rW2Gmj" version="18.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-06T16:27:54.558Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="Ae-CtxbgYtRFOZOZNVLO" version="18.1.1" type="github" pages="2">
   <diagram id="YpfgOicpe_ktB0YQQekx" name="Big picture view - Business Domain">
     <mxGraphModel dx="1248" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -100,13 +100,13 @@
           <mxGeometry x="40" y="34" width="1080" height="760" as="geometry" />
         </mxCell>
         <mxCell id="8JEI-f0Y0mc0raWsWDQL-10" value="Intermediate Storage Queue(s)" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#0080A3;shape=mxgraph.azure.queue_generic;pointerEvents=1;strokeWidth=4;perimeterSpacing=2;" vertex="1" parent="8JEI-f0Y0mc0raWsWDQL-1">
-          <mxGeometry x="490" y="56" width="50" height="15" as="geometry" />
+          <mxGeometry x="120" y="70" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="8JEI-f0Y0mc0raWsWDQL-19" value="Configuration Parameters" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.parameter_store;fillColor=#759C3E;gradientColor=none;fontColor=#000000;strokeColor=#006600;strokeWidth=4;" vertex="1" parent="8JEI-f0Y0mc0raWsWDQL-1">
-          <mxGeometry x="683.9999999999999" y="237.2" width="45" height="38" as="geometry" />
+          <mxGeometry x="499.9999999999999" y="63.099999999999994" width="45" height="38" as="geometry" />
         </mxCell>
         <mxCell id="8JEI-f0Y0mc0raWsWDQL-22" value="Security Certificates" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.certificate_manager;fillColor=#006666;gradientColor=#33FFFF;fontColor=#000000;strokeColor=none;strokeWidth=4;" vertex="1" parent="8JEI-f0Y0mc0raWsWDQL-1">
-          <mxGeometry x="494.25" y="241.8" width="41.5" height="28.8" as="geometry" />
+          <mxGeometry x="320" y="63.10000000000002" width="41.5" height="28.8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
