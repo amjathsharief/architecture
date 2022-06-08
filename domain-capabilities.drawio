@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T14:17:15.243Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="aV-dUQQh8FIsUQAYSmhW" version="18.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-08T14:18:45.426Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="FGEIugxCLY4-ou8z-FW4" version="18.1.1" type="github" pages="2">
   <diagram id="YpfgOicpe_ktB0YQQekx" name="Big picture view - Business Domain">
     <mxGraphModel dx="1248" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -112,13 +112,13 @@
           <mxGeometry x="320" y="63.10000000000002" width="41.5" height="28.8" as="geometry" />
         </mxCell>
         <mxCell id="gSC41v_ms5mnBrK4dlhs-0" value="&lt;font color=&quot;#000000&quot;&gt;API Management&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/management/api_management.svg;strokeColor=#FFFFFF;strokeWidth=4;fillColor=#FFAC75;gradientColor=#CC6600;gradientDirection=north;" vertex="1" parent="8JEI-f0Y0mc0raWsWDQL-1">
-          <mxGeometry x="125" y="170" width="40" height="40" as="geometry" />
+          <mxGeometry x="120" y="160" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PcW7_i8H31XZQcS9XPYS-0" value="API Analytics" style="editableCssRules=.*;shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjIwLjAxMDAwMDIyODg4MTgzNiIgaGVpZ2h0PSI5LjQ5NDcyOTA0MjA1MzIyMyIgdmlld0JveD0iMC4wMDAyMDYzODQ1NjA0NDI1Mjk2MiAwIDIwLjAxMDAwMDIyODg4MTgzNiA5LjQ5NDcyOTA0MjA1MzIyMyI+JiN4YTsJPHN0eWxlIHR5cGU9InRleHQvY3NzIj4mI3hhOwkuc3Qwe2ZpbGw6IzQyODVmNDt9JiN4YTsJLnN0MXtmaWxsOiM2NjlkZjY7fSYjeGE7CS5zdDJ7ZmlsbDojYWVjYmZhO30mI3hhOwk8L3N0eWxlPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xLjQ3NiA4LjQzYTQuMzEgNC4zMSAwIDEgMSA2LjA3LS40IDMuNjggMy42OCAwIDAgMS0uMzkuNCA0LjMyIDQuMzIgMCAwIDEtNS42OCAwem01LjItNS4yYTMuMDcgMy4wNyAwIDEgMC0uNCA0LjMzIDMgMyAwIDAgMCAuNC0uNCAzLjA3IDMuMDcgMCAwIDAgMC0zLjkzem02LjE5IDUuMmE0LjMxIDQuMzEgMCAxIDEgNi4wNy0uNCAzLjc4IDMuNzggMCAwIDEtLjQuNCA0LjMxIDQuMzEgMCAwIDEtNS42NyAwem01LjItNS4yYTMuMDcgMy4wNyAwIDEgMC0uNCA0LjMzIDMgMyAwIDAgMCAuNC0uNCAzLjA4IDMuMDggMCAwIDAgMC0zLjkzeiIvPiYjeGE7CTxnIGNsYXNzPSJzdDEiPiYjeGE7CQk8Y2lyY2xlIGN4PSI0LjMxNiIgY3k9IjUuMTkiIHI9IjEuNjkiLz4mI3hhOwkJPGNpcmNsZSBjeD0iMTUuNjk2IiBjeT0iNS4xOSIgcj0iMS42OSIvPiYjeGE7CTwvZz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QyIiBkPSJNMTIuMzk2LjU2YS4zMS4zMSAwIDAgMC0uMTgtLjU2aC00LjQyYS4zMS4zMSAwIDAgMC0uMTguNTYgNS43MyA1LjczIDAgMCAxIDIuMTMgMi45Mi4yOC4yOCAwIDAgMCAuMzYuMTYuMjkuMjkgMCAwIDAgLjE3LS4xNyA1LjY3IDUuNjcgMCAwIDEgMi4xMi0yLjkxeiIvPiYjeGE7PC9zdmc+;fontColor=#000000;strokeColor=#FFFFFF;strokeWidth=4;fillColor=#FF0000;gradientColor=#FFCCCC;gradientDirection=north;" vertex="1" parent="8JEI-f0Y0mc0raWsWDQL-1">
-          <mxGeometry x="317.06" y="180" width="44.44" height="20" as="geometry" />
+          <mxGeometry x="318.53000000000003" y="170" width="44.44" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uzT3awy7TSQ4g-gfANdU-0" value="API Versioning" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/christmas-line-version-free/100/christmas_line-13-128.png;fontColor=#000000;strokeColor=#FFFFFF;strokeWidth=4;fillColor=#FF0000;gradientColor=#FFCCCC;gradientDirection=north;" vertex="1" parent="8JEI-f0Y0mc0raWsWDQL-1">
-          <mxGeometry x="130" y="280" width="30" height="30" as="geometry" />
+          <mxGeometry x="125" y="280" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
