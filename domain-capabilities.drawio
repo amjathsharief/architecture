@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T16:14:19.692Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="T26K3v0yUn9hIziLXBY1" version="18.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-21T14:55:27.866Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="BYfRe5bxewbgavpSTUSf" version="18.1.1" type="github" pages="3">
   <diagram id="YpfgOicpe_ktB0YQQekx" name="Big picture view - Business Domain">
     <mxGraphModel dx="1248" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -119,6 +119,15 @@
         </mxCell>
         <mxCell id="uzT3awy7TSQ4g-gfANdU-0" value="API Versioning" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/christmas-line-version-free/100/christmas_line-13-128.png;fontColor=#000000;strokeColor=#FFFFFF;strokeWidth=4;fillColor=#FF0000;gradientColor=#FFCCCC;gradientDirection=north;" vertex="1" parent="8JEI-f0Y0mc0raWsWDQL-1">
           <mxGeometry x="125" y="280" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VcG1zx1cujo_UZvzR01E-0" value="Disaster Recovery Plan" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.dr_plan;fontColor=#000000;" vertex="1" parent="8JEI-f0Y0mc0raWsWDQL-1">
+          <mxGeometry x="127" y="393" width="28.000000000000004" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="VcG1zx1cujo_UZvzR01E-1" value="Disaster Recovery Site&amp;nbsp;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.dr_site;fontColor=#000000;" vertex="1" parent="8JEI-f0Y0mc0raWsWDQL-1">
+          <mxGeometry x="500" y="390.2" width="44.8" height="44.8" as="geometry" />
+        </mxCell>
+        <mxCell id="VcG1zx1cujo_UZvzR01E-2" value="Disaster Recovery Process" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.disaster_recovery;fontColor=#000000;" vertex="1" parent="8JEI-f0Y0mc0raWsWDQL-1">
+          <mxGeometry x="310" y="393" width="44.8" height="44.8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
