@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T16:56:23.658Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="H7n_UH6gSwkTA7D_VeT6" version="20.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-08-24T16:57:19.168Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="h_XlqJCG1hV9dJJtRCkh" version="20.2.3" type="github" pages="4">
   <diagram id="YpfgOicpe_ktB0YQQekx" name="Big picture view - Business Domain">
     <mxGraphModel dx="1426" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -140,6 +140,9 @@
         </mxCell>
         <mxCell id="w5euLYWFjNOszIb8GUHX-0" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Distributed Caching API" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#CC6600;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api;fontColor=#000000;gradientColor=none;" vertex="1" parent="8JEI-f0Y0mc0raWsWDQL-1">
           <mxGeometry x="116.00000000000001" y="510" width="44" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="IkrBsjPWGdpF155yL3NH-0" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Messaging API" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#CC6600;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api;fontColor=#000000;gradientColor=none;" vertex="1" parent="8JEI-f0Y0mc0raWsWDQL-1">
+          <mxGeometry x="116.00000000000001" y="610" width="44" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
