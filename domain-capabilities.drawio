@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-20T16:36:34.600Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="7OUFjqTq9MxF_E7KwBme" version="20.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-20T16:37:18.797Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="RV0FYUL7Hp_-6V6ArwND" version="20.3.1" type="github" pages="4">
   <diagram id="YpfgOicpe_ktB0YQQekx" name="Big picture view - Business Domain">
     <mxGraphModel dx="1426" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry x="687" y="48.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rvYusmREHdtUx_hZXpQg-16" value="Monitoring Dashboard" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/business-and-finance-20/200/vector_65_11-128.png;strokeColor=#006600;fillColor=#B0084D;gradientColor=#FF0C70;" parent="1" vertex="1">
-          <mxGeometry x="106.60000000000001" y="700" width="60" height="60" as="geometry" />
+          <mxGeometry x="106.60000000000001" y="675" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rvYusmREHdtUx_hZXpQg-17" value="Domain Metrics" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Metrics.svg;strokeColor=#006600;fillColor=#B0084D;gradientColor=#FF0C70;" parent="1" vertex="1">
           <mxGeometry x="681.23" y="642" width="41.54" height="45" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="315" y="44.50000000000007" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="8qbI5Qgk7M2qw24VD5tH-1" value="Event Streaming API" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/128x128/filesystems/socket.png" vertex="1" parent="1">
-          <mxGeometry x="113.80000000000001" y="620" width="48" height="48" as="geometry" />
+          <mxGeometry x="491" y="42.700000000000045" width="48" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
