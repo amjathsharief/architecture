@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T16:53:30.449Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="EkA6o57R8-lbEN4z1U_W" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-01T16:54:35.605Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="qKp6QUjwDS3Hg2dhZorA" version="20.6.0" type="github" pages="4">
   <diagram id="YpfgOicpe_ktB0YQQekx" name="Big picture view - Business Domain">
     <mxGraphModel dx="1186" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -198,8 +198,8 @@
         <mxCell id="70DPf9Ic10Ljl6-9_wsm-3" value="https://schema.org/" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="165" y="210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zwXyUUJvwtS5vPovGROd-1" value="&lt;h1&gt;Protocols&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;HTTP&lt;/li&gt;&lt;ul&gt;&lt;li&gt;RESTful JSON API Specification&lt;/li&gt;&lt;li&gt;WebSockets&lt;/li&gt;&lt;li&gt;SSE (HTTP 2.0)&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;GraphQL&lt;/li&gt;&lt;li&gt;gRPC&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="320" width="290" height="163" as="geometry" />
+        <mxCell id="zwXyUUJvwtS5vPovGROd-1" value="&lt;h1&gt;Protocols&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;HTTP&lt;/li&gt;&lt;ul&gt;&lt;li&gt;RESTful JSON API Specification&lt;/li&gt;&lt;li&gt;WebSockets&lt;/li&gt;&lt;li&gt;SSE (HTTP 2.0)&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;GraphQL&lt;/li&gt;&lt;li&gt;gRPC&lt;/li&gt;&lt;li&gt;WebHooks&lt;/li&gt;&lt;li&gt;etc&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="17" width="290" height="183" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
