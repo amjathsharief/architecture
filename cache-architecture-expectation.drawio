@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T20:28:20.721Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="IEsXEemrwKpcGNWvaf7i" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-11T20:29:36.225Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="qU5UuSDGqeJAVFSSAmj1" type="github" pages="2">
   <diagram id="6TcHOUISSu85AdaIKIOx" name="Page-1">
-    <mxGraphModel dx="1483" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,8 +30,9 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tChos9dHQWDGIUQFNhOZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.016;entryY=0.553;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1" source="tChos9dHQWDGIUQFNhOZ-7" target="tChos9dHQWDGIUQFNhOZ-13">
+        <mxCell id="tChos9dHQWDGIUQFNhOZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1" source="tChos9dHQWDGIUQFNhOZ-7" target="tChos9dHQWDGIUQFNhOZ-14">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="551.9760000000003" y="305.3919999999998" as="targetPoint" />
             <Array as="points">
               <mxPoint x="315" y="305" />
             </Array>
@@ -43,8 +44,9 @@
         <mxCell id="tChos9dHQWDGIUQFNhOZ-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="595" y="120" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tChos9dHQWDGIUQFNhOZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.631;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1" source="tChos9dHQWDGIUQFNhOZ-9" target="tChos9dHQWDGIUQFNhOZ-13">
+        <mxCell id="tChos9dHQWDGIUQFNhOZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1" source="tChos9dHQWDGIUQFNhOZ-9" target="tChos9dHQWDGIUQFNhOZ-14">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="617" y="310.3839999999998" as="targetPoint" />
             <Array as="points">
               <mxPoint x="880" y="310" />
             </Array>
@@ -56,8 +58,10 @@
         <mxCell id="tChos9dHQWDGIUQFNhOZ-10" value="Replicated in-process cache" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="265" y="160" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tChos9dHQWDGIUQFNhOZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1" source="tChos9dHQWDGIUQFNhOZ-11" target="tChos9dHQWDGIUQFNhOZ-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="tChos9dHQWDGIUQFNhOZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1" source="tChos9dHQWDGIUQFNhOZ-11" target="tChos9dHQWDGIUQFNhOZ-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="585" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tChos9dHQWDGIUQFNhOZ-11" value="Replicated in-process cache" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="562" y="160" width="100" height="30" as="geometry" />
@@ -65,20 +69,14 @@
         <mxCell id="tChos9dHQWDGIUQFNhOZ-12" value="Replicated in-process cache" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="835" y="158" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tChos9dHQWDGIUQFNhOZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1" source="tChos9dHQWDGIUQFNhOZ-13" target="tChos9dHQWDGIUQFNhOZ-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tChos9dHQWDGIUQFNhOZ-13" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Distributed Cache&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Cache.svg;labelBackgroundColor=#6666FF;fillColor=#3333FF;" vertex="1" parent="1">
-          <mxGeometry x="553" y="270" width="64" height="64" as="geometry" />
-        </mxCell>
         <mxCell id="tChos9dHQWDGIUQFNhOZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1" source="tChos9dHQWDGIUQFNhOZ-14" target="tChos9dHQWDGIUQFNhOZ-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tChos9dHQWDGIUQFNhOZ-14" value="DAX" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#2E27AD;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.dynamodb_dax;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="546" y="430" width="78" height="72" as="geometry" />
+          <mxGeometry x="545" y="280" width="78" height="72" as="geometry" />
         </mxCell>
         <mxCell id="tChos9dHQWDGIUQFNhOZ-15" value="DynamoDB" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.dynamodb;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="546" y="590" width="78" height="78" as="geometry" />
+          <mxGeometry x="545" y="460" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="tChos9dHQWDGIUQFNhOZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classicThin;startFill=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tChos9dHQWDGIUQFNhOZ-8">
           <mxGeometry relative="1" as="geometry">
